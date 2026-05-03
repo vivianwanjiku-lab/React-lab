@@ -40,11 +40,10 @@ const App = () => {
     <div className="app">
       <header className="hero">
         <div className="hero-copy">
-          <p className="eyebrow">Landing page</p>
           <h1>Share your projects in a clean, responsive showcase</h1>
           <p className="hero-text">
             Add new projects, search instantly, and explore a design inspired by
-            your mock-up.
+            the mock-up.
           </p>
         </div>
       </header>
